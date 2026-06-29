@@ -27,7 +27,7 @@ params = {
     "user": USER,
     "api_key": API_KEY,
     "format": "json",
-    "period": "12month",
+    "period": "1month",
     "limit": 50
 }
 
